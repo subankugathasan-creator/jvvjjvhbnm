@@ -1,0 +1,3 @@
+gh repo clone eyalzh/browser-control-mcp
+npm install
+npm run build
